@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    /* text-align: center; */
+    }
+    .main{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 200%;
+
+    }
+
+   .nav-bar{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 170%;
+       
+       
+   }
+
+   .car{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+   }
+
+ 
